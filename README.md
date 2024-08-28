@@ -7,4 +7,6 @@ See game here: https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/flip.html
 
 Note: If you haven't downloaded Sage and ran it locally, you can just run the code in SageCell: https://sagecell.sagemath.org
 
-UPDATE: If the preview says "Error Occured" you can just plug the URL for this repository into https://nbviewer.org
+# UPDATES 
+
+If the preview says "Error Occured" you can just plug the URL for this repository into https://nbviewer.org
